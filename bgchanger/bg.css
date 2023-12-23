@@ -1,0 +1,58 @@
+.div_wraper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40%;
+    
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+    
+}
+.black{
+    background-color:black;
+}
+.orange {
+    background-color:orange;
+}
+.yellow{
+    background-color:yellow;
+}
+.red{
+    background-color:red;
+}
+.blue{
+    background-color:blue;
+}
+.pink{
+    background-color:pink;
+}
+.purple{
+    background-color:purple;
+}
+.violet{
+    background-color:violet;
+}
+.gold{
+    background-color:gold;
+}
+.white{
+    background-color:#ffffff;
+    border: 2px solid red;
+}
+.navy{
+    background-color:#000080;
+}
+.lime{
+    background-color:#00ff00;
+}
+.brown{
+    background-color:#a52a2a;
+}
+.coral{
+    background-color:#ff7f50;
+}
