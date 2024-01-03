@@ -21,7 +21,7 @@ stop.forEach(function(e){
 
 function random(){
     const hex='0123456789ABCDEF'
-    // console.log(hex);
+     console.log(hex);
      let color='#'
     for (let i= 0; i < 6; i++) {
        
